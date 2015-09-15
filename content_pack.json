@@ -3,6 +3,7 @@
   "name" : "nginx.systemd",
   "description" : "This content pack will create streams and dashboard based on GELF input. Fields are extracted using [journal2gelf](https://github.com/nailgun/journal2gelf) and custom drools rules",
   "category" : "Web Servers",
+  "inputs" : [ ],
   "streams" : [ {
     "id" : "55f84fa3e4b0314344e5d3bb",
     "title" : "nginx",
